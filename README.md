@@ -5,15 +5,21 @@ Product and sales Analysis Dashboard and complete Final report in power BI
 Dashboard Overview
 Title: Products and Sales Analysis
 Last Saved: Date and time when the dashboard was last updated, adding to the freshness of the data presented.
+
 Key Metrics Displayed
 Revenue: $24.9M
 Displays the total revenue generated.
+
 Profit: $10.5M
 Indicates the total profit earned.
+
 Orders: 25.2K
 Shows the total number of orders placed.
+
 Return Rate: 2.2%
 Depicts the percentage of returns against the total orders.
+
+
 Dynamic Charts and Visual Elements
 
 Revenue Trending:
