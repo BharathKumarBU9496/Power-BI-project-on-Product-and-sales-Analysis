@@ -4,7 +4,7 @@ Product and sales Analysis Dashboard and complete Final report in power BI
 
 Dashboard Overview
 Title: Products and Sales Analysis
-Last Saved: Date and time when the dashboard was last updated, adding to the freshness of the data presented.
+Last Saved: Date and time when the dashboard was last updated, adding to the freshness of the data presented..
 
 Key Metrics Displayed
 Revenue: $24.9M
