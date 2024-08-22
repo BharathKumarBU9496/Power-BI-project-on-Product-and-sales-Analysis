@@ -1,4 +1,4 @@
-# Power-BI-project-on-Product-and-sales-Analysis
+# Power-BI-project-on-Product-and-sales-Analysis.
 Product and sales Analysis Dashboard and complete Final report in power BI
 ![Screenshot (104)](https://github.com/user-attachments/assets/76e162e5-d266-4b86-99aa-be1077c8ecdf)
 
