@@ -20,7 +20,7 @@ Return Rate: 2.2%
 Depicts the percentage of returns against the total orders.
 
 
-Dynamic Charts and Visual Elements
+Dynamic Charts and Visual Elements.
 
 Revenue Trending:
 A line graph showcasing revenue growth over time, compared against a dotted line representing the forecasted revenue. This graph provides a visual representation of actual sales performance versus projections.
